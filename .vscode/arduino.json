@@ -1,0 +1,7 @@
+{
+    "sketch": "CarLED.ino",
+    "port": "COM5",
+    "board": "arduino:avr:nano",
+    "programmer": "ArduinoISP",
+    "configuration": "cpu=atmega328"
+}
